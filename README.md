@@ -36,6 +36,6 @@
 
 <h2> 💾 Some Stats</h2>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=amadzai&show_icons=true&theme=date_night" alt="Amad's GitHub Stats" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=amadzai&show_icons=true&theme=apprentice" alt="Amad's GitHub Stats" /><br>
 <i><sub>*I should probably work on more public repos instead of hoarding everything in private...</sub></i>
 </p>
