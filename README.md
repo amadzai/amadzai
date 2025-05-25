@@ -1,4 +1,5 @@
-## Hey 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> , I'm <a href="https://www.linkedin.com/in/muhammadzainurin/">Amad</a>
+I'm a full-stack dev at <a href="https://www.elvtd.io/portfolio">ELVTD</a>
 
 <!--
 **amadzai/amadzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
