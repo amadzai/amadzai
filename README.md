@@ -7,7 +7,7 @@
 <li>🤸🏻‍♂️ I'm a recovering <strong>"vibe-code"</strong> addict</li>
 <li>🔧 Currently working on a personal portfolio site <a href="http://amadzai.com/">AMADZAI</a></li>
 <li>📓 Looking into <strong>AMMs for prediction markets</strong>, creating <strong>mandlebrot sets</strong>, and learning <strong>Rust</strong></li>
-<li>💬 <code>Ping</code> me about <strong>DeFi</strong>, <strong>NestJS</strong>, <strong>NumPy</strong>, <strong>Solidity</strong></li>
+<li>💬 <code>Ping</code> me about <strong>DeFi</strong>, <strong>NestJS</strong>, <strong>React</strong>, <strong>Solidity</strong></li>
 </ul>
 
 <h3>Connect with me:</h3>
