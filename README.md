@@ -1,13 +1,13 @@
 <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> , I'm <a href="https://www.linkedin.com/in/muhammadzainurin/">Amad</a></h2>
 
-<p>I'm a full-stack dev at <a href="https://www.elvtd.io/portfolio">ELVTD</a> and formerly a database engineer at <a href="https://www.petronas.com/">PETRONAS</a> based in Kuala Lumpur. I am exploring Web3, joining a bunch of hackathons while doing so, and trying to make up as many reasons as I can to not learn Vim.</p>
+<p>I'm a full-stack dev at <a href="https://www.elvtd.io/portfolio">ELVTD</a> and formerly a database engineer at <a href="https://www.petronas.com/">PETRONAS</a> based in Kuala Lumpur. I'm exploring Web3, joining a bunch of hackathons while doing so, and trying to make up as many reasons as I can to not learn Vim. I'm also very passionate about PC hardware and gaming, especially when it comes to tinkering with the settings.</p>
 
 <h2>⚡️A Few Quick Facts</h2>
 <ul>
 <li>🤸🏻‍♂️ I'm a recovering <strong>"vibe-code"</strong> addict</li>
 <li>🔧 Currently working on a personal portfolio site <a href="http://amadzai.com/">AMADZAI</a></li>
-<li>📓 Looking into <strong>AMMs for prediction markets</strong>, creating <strong>mandlebrot sets</strong>, and learning <strong>Rust</strong></li>
-<li>💬 <code>Ping</code> me about <strong>DeFi</strong>, <strong>NestJS</strong>, <strong>React</strong>, <strong>Solidity</strong></li>
+<li>📓 Looking into <strong>AMMs for prediction markets</strong>, creating <strong>mandlebrot sets</strong>, and learning more about <strong>PC hardware and peripherals</strong></li>
+<li>💬 <code>Ping</code> me about <strong>DeFi</strong>, <strong>JS Frameworks</strong>, <strong>RPGs</strong>, <strong>Low Latency Tech</strong></li>
 </ul>
 
 <h3>Connect with me:</h3>
