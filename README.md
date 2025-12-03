@@ -33,8 +33,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="40" width="50" />
 </p>
 
-<h2> 💾 Some Stats</h2>
+<!-- <h2> 💾 Some Stats</h2>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=amadzai&show_icons=true&theme=apprentice" alt="Amad's GitHub Stats" /><br>
 <i><sub>*I should probably work on more public repos instead of hoarding everything in private...</sub></i>
-</p>
+</p> -->
