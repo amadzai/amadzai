@@ -6,7 +6,7 @@
 <ul>
 <li>🔧 Currently working on a personal portfolio site <a href="http://amadzai.com/">AMADZAI</a></li>
 <li>📓 Looking into <strong>AMMs for prediction markets</strong>, creating <strong>mandlebrot sets</strong>, and learning more about <strong>PC hardware and peripherals</strong></li>
-<li>💬 <code>Ping</code> me about <strong>DeFi</strong>, <strong>JS Frameworks</strong>, <strong>RPGs</strong>, <strong>Low Latency Tech</strong></li>
+<li>💬 <code>Ping</code> me about <strong>DeFi</strong>, <strong>JS Frameworks</strong>, <strong>RPGs</strong>, <strong>Chess</strong></li>
 </ul>
 
 <h3>Connect with me:</h3>
