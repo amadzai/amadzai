@@ -1,6 +1,6 @@
 <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> , I'm <a href="https://www.linkedin.com/in/muhammadzainurin/">Amad</a></h2>
 
-<p>I'm a full-stack dev at <a href="https://www.elvtd.io/portfolio">ELVTD</a> and formerly a database engineer at <a href="https://www.petronas.com/">PETRONAS</a> based in Kuala Lumpur. I'm exploring Web3, joining a bunch of hackathons while doing so, and trying to make up as many reasons as I can to not learn Vim. I'm also very passionate about PC hardware and gaming, especially when it comes to tinkering with the settings.</p>
+<p>I'm a full-stack developer and formerly a database engineer at <a href="https://www.petronas.com/">PETRONAS</a> based in Kuala Lumpur. I'm exploring Web3, joining a bunch of hackathons while doing so, and trying to make up as many reasons as I can to not learn Vim. I'm also very passionate about PC hardware and gaming, especially when it comes to tinkering with the settings.</p>
 
 <h2>⚡️A Few Quick Facts</h2>
 <ul>
