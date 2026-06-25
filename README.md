@@ -3,4 +3,4 @@
 <p>I'm a full-stack developer and formerly a database engineer at <a href="https://www.petronas.com/">PETRONAS</a> based in Kuala Lumpur. I'm exploring Web3, and joining a bunch of hackathons while doing so. I'm also very passionate about PC hardware and gaming, especially when it comes to tinkering with the settings.</p>
 
 <h3>Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,ruby,nestjs,nextjs,react,rails,redis,postgres,docker,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,ruby,python,nestjs,nextjs,react,rails,redis,django,fastapi,postgres,docker,tailwind" />
